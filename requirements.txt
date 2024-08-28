@@ -1,0 +1,4 @@
+requests==2.32.2
+bs4==0.0.2
+selenium==4.23.1
+webdriver-manager==4.0.2
